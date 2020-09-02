@@ -1,1 +1,10 @@
 words opposite
+hi , bye
+in , out
+on , off
+yes , no
+open , close
+top , bottom
+light , dark
+low , high
+left , right
